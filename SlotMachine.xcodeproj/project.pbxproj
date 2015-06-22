@@ -156,6 +156,7 @@
 		4927B4071B2F9EC700FB2942 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = Technolopy;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				4927B4301B2F9EC700FB2942 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4927B4311B2F9EC700FB2942 /* Build configuration list for PBXNativeTarget "SlotMachineTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				4927B4331B2F9EC700FB2942 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
